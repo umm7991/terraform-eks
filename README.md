@@ -1,5 +1,5 @@
 # terraform-eks
-A sample repository to create EKS on AWS using Terraform. Very useful tutorial.
+A sample repository to create EKS on AWS using Terraform. Very useful tutorial. Learning TF and EKS is fun.
 
 ### Install AWS CLI 
 
