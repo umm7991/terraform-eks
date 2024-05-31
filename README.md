@@ -2,6 +2,7 @@
 A sample repository to create EKS on AWS using Terraform. Very useful tutorial.
 
 Have a good day!
+Enjoy the day!
 
 ### Install AWS CLI 
 
